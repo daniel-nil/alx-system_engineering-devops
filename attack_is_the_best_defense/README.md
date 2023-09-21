@@ -1,1 +1,1 @@
-daniel nil
+# Attack is the best defense
